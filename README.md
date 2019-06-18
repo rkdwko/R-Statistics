@@ -1,6 +1,4 @@
 # R-Statistics
-R-Statistics
-TIL
 
 ### 교재 : 제대로 알고 쓰는 R 통계분석
 #### 저자 : 이윤환 (한빛아카데미)
